@@ -1,4 +1,4 @@
-### 👋 Xin chào, tôi là Nguyễn Văn Nam
+### 👋 Hi, I'm Nguyễn Văn Nam
 <a href="https://github.com/mann13112003"><img align="center" width="500" height="500" src="https://res.cloudinary.com/easy-frontend/image/upload/v1598840300/blog/programming_hgngx9.png"></a>  
 
 
