@@ -6,7 +6,8 @@
 - 👀 I’m interested in web design   
 
    
-- 🌱 I’m currently learning about font-end
+- 🌱 I’m currently learning about front-end
+  
 
 
 <!---
